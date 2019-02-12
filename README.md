@@ -1,4 +1,4 @@
-# MS-GSP
+# MS-GSP DataMining Algorithm
 
 Programming language: Python
 Compiler Version: Python 3.6.4 |PyCharm (IntelliJ)|
